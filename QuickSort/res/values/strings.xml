@@ -4,5 +4,9 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="enter_sequence_to_sort_text">Enter a sequence of numbers to sort:</string>
+    <string name="textview">TextView</string>
+    <string name="sorted_numbers_text">Sorted Numbers:</string>
+    <string name="sort">Sort</string>
 
 </resources>
